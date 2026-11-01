@@ -1,0 +1,1362 @@
+{
+  "blocks": [
+    {
+      "type": "photo",
+      "photo": {
+        "type": "photo",
+        "media": "attach://main"
+      }
+    },
+    {
+      "type": "heading",
+      "size": 1,
+      "text": [
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420366834857716979",
+          "alternative_text": "🖥️"
+        },
+        " СВОЙ VPS В CLOUD.RU — ",
+        {
+          "type": "bold",
+          "text": "ПО ШАГАМ"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420111460397264151",
+          "alternative_text": "✅"
+        },
+        " От регистрации до первого входа на сервер."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5422351672389184921",
+          "alternative_text": "🖼️"
+        },
+        " Скриншоты и шаги из инструкции MC Panel."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420330997650598809",
+          "alternative_text": "⚠️"
+        },
+        " ",
+        "Нужна банковская карта. Бонусы ограничены по сумме и сроку; актуальные условия проверьте в своём кабинете. Это не бессрочный бесплатный VPS."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        " ",
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5422565566055494438",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5422856567269669418",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420086802990015733",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420504548689097519",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420399098652042244",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420316725474272377",
+          "alternative_text": "➖"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5418255510539380120",
+          "alternative_text": "▫️"
+        }
+      ]
+    },
+    {
+      "type": "photo",
+      "photo": {
+        "type": "photo",
+        "media": "attach://b1-start"
+      }
+    },
+    {
+      "type": "blockquote",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5420580316207163969",
+              "alternative_text": "🧑‍💻"
+            },
+            " ",
+            {
+              "type": "bold",
+              "text": "1. Создайте аккаунт"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            "Откройте ",
+            {
+              "type": "url",
+              "text": "console.cloud.ru",
+              "url": "https://console.cloud.ru/"
+            },
+            " → «Зарегистрироваться». Используйте почту и пароль (Cloud.ru ID). Сбер ID не обязателен."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "Привяжите банковскую карту, когда сервис её попросит. После входа откроется Cloud.ru Evolution."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5420363828380609252",
+              "alternative_text": "📋"
+            },
+            " ",
+            {
+              "type": "bold",
+              "text": "2. Проверьте грант"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "Нажмите на плашку баланса → «Контроль затрат» → «Гранты». Проверьте доступную сумму и дату окончания. В исходной инструкции показан «Тест Evolution (4 000 Б)» примерно на два месяца; у вас условия могут отличаться."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "photo",
+      "photo": {
+        "type": "photo",
+        "media": "attach://s1"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "italic",
+          "text": "Главная страница: где создавать ресурс и смотреть баланс."
+        }
+      ]
+    },
+    {
+      "type": "photo",
+      "photo": {
+        "type": "photo",
+        "media": "attach://s8"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "italic",
+          "text": "«Контроль затрат»: сумма и сроки гранта в примере из инструкции."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        " ",
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5422565566055494438",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5422856567269669418",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420086802990015733",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420504548689097519",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420399098652042244",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420316725474272377",
+          "alternative_text": "➖"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5418255510539380120",
+          "alternative_text": "▫️"
+        }
+      ]
+    },
+    {
+      "type": "photo",
+      "photo": {
+        "type": "photo",
+        "media": "attach://b2-machine"
+      }
+    },
+    {
+      "type": "blockquote",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5420366834857716979",
+              "alternative_text": "🖥️"
+            },
+            " ",
+            {
+              "type": "bold",
+              "text": "3. Откройте создание ВМ"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "«Создать ресурс +» → «Виртуальная машина». Количество — 1. Название — например minecraft; зона в примере — ru.AZ-1. GPU выключен."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "photo",
+      "photo": {
+        "type": "photo",
+        "media": "attach://s2"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "italic",
+          "text": "Откройте пункт «Виртуальная машина»."
+        }
+      ]
+    },
+    {
+      "type": "photo",
+      "photo": {
+        "type": "photo",
+        "media": "attach://s3"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "italic",
+          "text": "Задайте название и зону доступности."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5420437770537574635",
+              "alternative_text": "⬇️"
+            },
+            " ",
+            {
+              "type": "bold",
+              "text": "4. Выберите Ubuntu"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "«Образ» → «Публичные ОС» → Ubuntu 24.04. Подойдёт и Ubuntu 22.04. Если по умолчанию стоит CentOS 9 — смените образ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "photo",
+      "photo": {
+        "type": "photo",
+        "media": "attach://s4"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "italic",
+          "text": "Нужный образ — Ubuntu 24.04."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5420366834857716979",
+              "alternative_text": "🖥️"
+            },
+            " ",
+            {
+              "type": "bold",
+              "text": "5. Настройте ресурсы"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "Для MC Panel в инструкции выбран пример: 2 vCPU, 4 ГБ RAM, 40 ГБ SSD. Минимум — 2 ГБ памяти и 20 ГБ диска. Это пример конфигурации для панели, а не требование для любого VPS."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "В поле размера диска вручную впишите 40 ГБ: на исходном скриншоте ещё видно значение 10. Справа проверяйте итоговую стоимость вашей конфигурации; цена на скриншотах относится к демонстрационному выбору. Нажмите «Продолжить»."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "photo",
+      "photo": {
+        "type": "photo",
+        "media": "attach://s5"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "italic",
+          "text": "Пример настройки ресурсов: задайте 40 ГБ SSD, 2 vCPU и 4 ГБ RAM."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5420287566941302337",
+              "alternative_text": "🌐"
+            },
+            " ",
+            {
+              "type": "bold",
+              "text": "6. Добавьте публичный IP"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "«Сетевой интерфейс №1» → «Подсеть с публичным IP». В примере: VPC Default, подсеть 10.0.0.0/24, внутренний IP автоматически. Группу безопасности создадим на следующем шаге."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "photo",
+      "photo": {
+        "type": "photo",
+        "media": "attach://s6"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "italic",
+          "text": "Для доступа из интернета выберите «Подсеть с публичным IP»."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5420227768111638256",
+              "alternative_text": "🔑"
+            },
+            " ",
+            {
+              "type": "bold",
+              "text": "7. Задайте пользователя"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "Оставьте логин user1. Для входа через виртуальную консоль выберите «Пароль» и задайте длинный надёжный пароль. Для SSH можно сразу выбрать «Публичный ключ»."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "Сохраните данные входа. После настройки группы безопасности нажмите «Создать»; по инструкции создание занимает 1–3 минуты."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "photo",
+      "photo": {
+        "type": "photo",
+        "media": "attach://s7"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "italic",
+          "text": "Логин user1 и метод входа. Пароль придумайте свой."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        " ",
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5422565566055494438",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5422856567269669418",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420086802990015733",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420504548689097519",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420399098652042244",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420316725474272377",
+          "alternative_text": "➖"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5418255510539380120",
+          "alternative_text": "▫️"
+        }
+      ]
+    },
+    {
+      "type": "photo",
+      "photo": {
+        "type": "photo",
+        "media": "attach://b3-ports"
+      }
+    },
+    {
+      "type": "blockquote",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5420388129305569816",
+              "alternative_text": "🛡️"
+            },
+            " ",
+            {
+              "type": "bold",
+              "text": "8. Создайте группу безопасности"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "В форме ВМ под полем «Группы безопасности» нажмите «Создать группу». Или откройте сервис «Группы безопасности» → «Создать группу безопасности +». Зона должна совпадать с машиной."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "photo",
+      "photo": {
+        "type": "photo",
+        "media": "attach://s9"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "italic",
+          "text": "Раздел «Группы безопасности» и кнопка создания."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5420498527144946884",
+              "alternative_text": "🔗"
+            },
+            " ",
+            {
+              "type": "bold",
+              "text": "9. Разрешите нужные порты"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "В «Правилах входящего трафика» нажимайте «+ Добавить правило». Для MC Panel и Minecraft:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5420248439789233881",
+              "alternative_text": "✅"
+            },
+            " 22 TCP — SSH"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5420248439789233881",
+              "alternative_text": "✅"
+            },
+            " 80 TCP — панель"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5420248439789233881",
+              "alternative_text": "✅"
+            },
+            " 443 TCP — HTTPS"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5420248439789233881",
+              "alternative_text": "✅"
+            },
+            " 25565–25665 TCP и UDP — Minecraft (два правила)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "Если спрашивает источник, в инструкции используется 0.0.0.0/0. Для другого приложения открывайте только нужные ему порты."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420330997650598809",
+          "alternative_text": "⚠️"
+        },
+        " ",
+        "Если появилось предупреждение о блокировке системного трафика, нажмите кнопку его разблокировки под предупреждением. Иначе можно потерять сеть."
+      ]
+    },
+    {
+      "type": "photo",
+      "photo": {
+        "type": "photo",
+        "media": "attach://s10"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "italic",
+          "text": "Добавьте правила и разблокируйте системный трафик, если появился такой запрос."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5420363828380609252",
+              "alternative_text": "📋"
+            },
+            " ",
+            {
+              "type": "bold",
+              "text": "10. Примените группу"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "Сохраните группу и выберите её в настройках вашей ВМ. Если машина уже создана — проверьте, что группа действительно к ней привязана. Готовая SSH-access сама по себе не открывает порты панели и Minecraft."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        " ",
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5422565566055494438",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5422856567269669418",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420086802990015733",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420504548689097519",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420399098652042244",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420316725474272377",
+          "alternative_text": "➖"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5418255510539380120",
+          "alternative_text": "▫️"
+        }
+      ]
+    },
+    {
+      "type": "photo",
+      "photo": {
+        "type": "photo",
+        "media": "attach://b4-connect"
+      }
+    },
+    {
+      "type": "blockquote",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5420287566941302337",
+              "alternative_text": "🌐"
+            },
+            " ",
+            {
+              "type": "bold",
+              "text": "11. Найдите адрес"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "«Сервисы» → «Виртуальные машины». Дождитесь статуса «Запущена» и скопируйте «Публичный IP»."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5422604542883703834",
+              "alternative_text": "💻"
+            },
+            " ",
+            {
+              "type": "bold",
+              "text": "12. Войдите через браузер"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "Карточка машины → «Виртуальная консоль». Введите user1 и заданный пароль. Символы пароля не отображаются — это нормально."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "Получите права администратора:"
+            }
+          ]
+        },
+        {
+          "type": "pre",
+          "text": "sudo -i",
+          "language": "bash"
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "Должно появиться приглашение root@…:~#. Если не вставляется текст, попробуйте Ctrl+Shift+V или правую кнопку мыши."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420330997650598809",
+          "alternative_text": "⚠️"
+        },
+        " ",
+        "В образах Cloud.ru, описанных в инструкции, SSH с паролем отключён. Пароль от user1 используйте в виртуальной консоли; для SSH нужен ключ."
+      ]
+    },
+    {
+      "type": "blockquote",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5420210382084023186",
+              "alternative_text": "🔒"
+            },
+            " ",
+            {
+              "type": "bold",
+              "text": "Если забыли пароль"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "Карточка машины → «Настройки авторизации» → «Установить новый пароль»."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "photo",
+      "photo": {
+        "type": "photo",
+        "media": "attach://s11"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "italic",
+          "text": "Где посмотреть логин user1 и задать новый пароль."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5420227768111638256",
+              "alternative_text": "🔑"
+            },
+            " ",
+            {
+              "type": "bold",
+              "text": "Если хотите входить по SSH"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "При создании ВМ выберите «Публичный ключ» и вставьте открытый SSH-ключ. На компьютере ключ создаётся командой:"
+            }
+          ]
+        },
+        {
+          "type": "pre",
+          "text": "ssh-keygen -t ed25519",
+          "language": "bash"
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "В Cloud.ru добавляется только открытая часть — файл с окончанием .pub. Затем подключайтесь:"
+            }
+          ]
+        },
+        {
+          "type": "pre",
+          "text": "ssh user1@ВАШ_IP",
+          "language": "bash"
+        },
+        {
+          "type": "pre",
+          "text": "sudo -i",
+          "language": "bash"
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            "Добавление ключа к уже созданной машине разобрано в ",
+            {
+              "type": "url",
+              "text": "полной инструкции",
+              "url": "https://github.com/minchiki/mc-panel/blob/main/docs/CLOUDRU.md#шаг-5-подключитесь-к-серверу"
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        " ",
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5422565566055494438",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5422856567269669418",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420086802990015733",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420504548689097519",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420399098652042244",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420316725474272377",
+          "alternative_text": "➖"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5418255510539380120",
+          "alternative_text": "▫️"
+        }
+      ]
+    },
+    {
+      "type": "photo",
+      "photo": {
+        "type": "photo",
+        "media": "attach://b5-budget"
+      }
+    },
+    {
+      "type": "blockquote",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5420363828380609252",
+              "alternative_text": "📋"
+            },
+            " ",
+            {
+              "type": "bold",
+              "text": "Следите за расходами"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "Остаток и срок бонусов смотрите в «Контроле затрат». Мощность ВМ влияет на скорость расхода; срок гранта не означает, что любой сервер проработает весь этот срок."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "Диск и IP могут расходовать бонусы, даже если ВМ выключена. Лишние тестовые ресурсы удаляйте через кабинет. Не активируйте платный баланс, если не готовы оплачивать ресурсы."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "В примере инструкции до первого пополнения используется бонусный баланс, а при его исчерпании ресурсы приостанавливаются. Условия своего аккаунта проверьте в кабинете."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5420181004507720616",
+              "alternative_text": "🗄️"
+            },
+            " ",
+            {
+              "type": "bold",
+              "text": "Сохраняйте данные"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "italic",
+              "text": "Бэкапы миров и важных файлов держите также на своём компьютере. При удалении ВМ можно потерять данные на ней."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        " ",
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5422565566055494438",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5422856567269669418",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420086802990015733",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420504548689097519",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420399098652042244",
+          "alternative_text": "➖"
+        },
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420316725474272377",
+          "alternative_text": "➖"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5418255510539380120",
+          "alternative_text": "▫️"
+        }
+      ]
+    },
+    {
+      "type": "photo",
+      "photo": {
+        "type": "photo",
+        "media": "attach://b6-links"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420640243885843295",
+          "alternative_text": "🚀"
+        },
+        " ",
+        {
+          "type": "bold",
+          "text": "VPS готов — можно устанавливать MC Panel."
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5422367645372557444",
+              "alternative_text": "📖"
+            },
+            " ",
+            {
+              "type": "bold",
+              "text": "Продолжение"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            "Установка панели, первый вход и создание Minecraft-сервера — в ",
+            {
+              "type": "url",
+              "text": "быстром старте",
+              "url": "https://github.com/minchiki/mc-panel/blob/main/docs/QUICKSTART.md"
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blockquote",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": [
+            {
+              "type": "custom_emoji",
+              "custom_emoji_id": "5420533737286839108",
+              "alternative_text": "🤖"
+            },
+            " ",
+            {
+              "type": "bold",
+              "text": "Помощь"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            "Если застряли: ",
+            {
+              "type": "url",
+              "text": "@faqmcpanel_bot",
+              "url": "https://t.me/faqmcpanel_bot"
+            },
+            ". Новости: ",
+            {
+              "type": "url",
+              "text": "@huicoding",
+              "url": "https://t.me/huicoding"
+            },
+            "."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5418255510539380120",
+          "alternative_text": "▫️"
+        }
+      ]
+    },
+    {
+      "type": "pullquote",
+      "text": [
+        {
+          "type": "custom_emoji",
+          "custom_emoji_id": "5420562848575172730",
+          "alternative_text": "⭐"
+        },
+        " Сохраните пост, чтобы вернуться к шагам при настройке."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": [
+        {
+          "type": "italic",
+          "text": "Основа: docs/CLOUDRU.md репозитория minchiki/mc-panel. Интерфейс и условия облака могут меняться."
+        }
+      ]
+    },
+    {
+      "type": "buttons",
+      "buttons": [
+        {
+          "text": "📖 Полная инструкция с фото",
+          "style": "primary",
+          "url": "https://github.com/minchiki/mc-panel/blob/main/docs/CLOUDRU.md"
+        }
+      ]
+    },
+    {
+      "type": "buttons",
+      "buttons": [
+        {
+          "text": "🚀 Установить MC Panel",
+          "style": "primary",
+          "url": "https://github.com/minchiki/mc-panel/blob/main/docs/QUICKSTART.md"
+        }
+      ]
+    },
+    {
+      "type": "buttons",
+      "buttons": [
+        {
+          "text": "🤖 Бот-помощник",
+          "style": "primary",
+          "url": "https://t.me/faqmcpanel_bot"
+        }
+      ]
+    },
+    {
+      "type": "buttons",
+      "buttons": [
+        {
+          "text": "📢 HUICODING",
+          "style": "primary",
+          "url": "https://t.me/huicoding"
+        }
+      ]
+    }
+  ]
+}
